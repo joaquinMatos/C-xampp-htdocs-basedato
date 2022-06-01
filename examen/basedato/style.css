@@ -1,0 +1,19 @@
+
+.editinicio{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(146, 146, 146);
+    color: white ;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center ;
+    background-color: black;
+    font-family: fantasy;
+}
+
+.imgservi{
+    text-align: center;
+}
